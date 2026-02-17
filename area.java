@@ -1,4 +1,6 @@
-public class area {
+
+public class area 
+{
     public static void main(String[] args)
     {
         int length = 5, breadth = 7;
